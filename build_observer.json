@@ -1,0 +1,10 @@
+{
+	"meta": {
+      "id": "izeberg.observer",
+      "version": "1.0.4.2",
+      "append_version": "true"
+    },
+	"flash_fdbs": {
+      "ObserverWindow/ObserverWindow.as3proj": "res/gui/flash/ObserverWindow.swf"
+	}
+}
